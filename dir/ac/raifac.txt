@@ -1,0 +1,14 @@
+05/05/2020 01:24:02
+Length is: 15
+Breath is: 10
+Heigth is: 10
+Result is: 1.5 tons
+
+
+05/05/2020 01:24:17
+Length is: 20
+Breath is: 20
+Heigth is: 20
+Result is: 8.0 tons
+
+

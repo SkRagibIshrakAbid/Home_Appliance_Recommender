@@ -1,0 +1,21 @@
+04/05/2020 23:16:21
+Length is: 30
+Breath is: 30
+Heigth is: 30
+Result is: 27.0 tons
+
+
+04/05/2020 23:16:34
+Length is: 45
+Breath is: 45
+Heigth is: 45
+Result is: 91.125 tons
+
+
+04/05/2020 23:49:13
+Length is: 105
+Breath is: 1056
+Heigth is: 105
+Result is: 11642.4 tons
+
+

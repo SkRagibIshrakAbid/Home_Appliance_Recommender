@@ -1,0 +1,15 @@
+05/05/2020 01:05:52
+Viewing distace is: 5
+Result is: 30.0 inches
+
+
+05/05/2020 01:06:05
+Viewing distace is: 2
+Result is: 12.0 inches
+
+
+05/05/2020 01:06:19
+Viewing distace is: 3
+Result is: 18.0 inches
+
+

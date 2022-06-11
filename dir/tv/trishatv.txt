@@ -1,0 +1,5 @@
+05/05/2020 01:16:27
+Viewing distace is: 150
+Result is: 900.0 inches
+
+
